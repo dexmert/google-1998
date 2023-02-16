@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+}
+
+.text-1 {
+    text-align: center;
+}
+
+#search-box {
+    display: flex;
+    justify-content: center;
+}
+
+.box1{
+    font-size: 16px;
+}
