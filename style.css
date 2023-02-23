@@ -15,16 +15,45 @@ body {
     justify-content: center;
 }
 
-.text-1 {
+.center {
+    width: 90%;
+    margin: auto;
     text-align: center;
 }
 
-#search-box {
-    display: flex;
-    justify-content: center;
+.height-box {
+    display: inline-block;
+    height: 74px;
 }
 
-.box1{
-    font-size: 16px;
-    /*  */
+.border {
+    border: 1px solid white;
 }
+
+.small {
+    font-size: small;
+}
+
+.bg {
+    background-color: rgb(238, 238, 238);
+    padding: 1px;
+}
+
+.box-1 {
+    width: 37%;
+    background-color: rgb(126, 229, 218);
+    float: left;
+}
+
+.box-2 {
+    width: 20%;
+    background-color: rgb(112, 204, 194);
+    float: left;
+}
+
+.box-3 {
+    width: 42.2%;
+    background-color: rgb(98, 179, 170);
+    float: left;
+}
+
